@@ -1,12 +1,4 @@
----
-title: GF- ONLINE TERMS OF USE
-layout: post
-author: lawrence
-permalink: /gf--online-terms-of-use-(12.08.2016).docx/
-source-id: 1oTz59CgD637f_7LlNvQI7g_ywnrhnUu4JEhs7obhG4A
-published: true
----
-**GETFEEDBACK TERMS OF USE (Online)**
+**GETFEEDBACK TERMS OF USE**
 
 PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING ANY OF THE SERVICES AVAILABLE AT [WWW.GETFEEDBACK.COM](http://www.getfeedback.com). IF YOU DO NOT ACCEPT THE TERMS OF THIS AGREEMENT, DO NOT USE THE SERVICES.
 
@@ -17,17 +9,13 @@ This Agreement takes effect on the earliest of: 1) Your clicking a check box pre
 If You sign up for the Services on behalf of an entity, You represent and warrant that You have the authority to accept this Agreement on the entity's behalf. In order to use the Services, You must: 
 
 1. be at least eighteen (18) years old;
-
 2. complete the registration process; 
-
 3. agree to these Terms of Use; and 
-
 4. provide true, complete, and up to date contact information. 
 
 By using the Services, You represent and warrant that You meet all the requirements listed above, and that You will not use the Services in a way that violates any laws or regulations. We may refuse Services, suspend or close Your account, and change eligibility requirements at any time. If You have any questions, feel free to send Us an email at help@GetFeedback.com, and We will contact You shortly.
 
-1. **Definitions. **Capitalized terms in this Agreement have the meanings defined below:
-
+1. **Definitions.** Capitalized terms in this Agreement have the meanings defined below:
     1. **"Affiliate"** of a party means any entity that directly or indirectly owns or controls, is owned or controlled by, or is under common ownership or control of a party. “Ownership” or “Control,” for purposes of this definition, means direct or indirect ownership or control of more than fifty percent (50%) of the voting interests of a party or the right to receive more than fifty percent (50%) of the profits or earning of the entity.
 
     2. **"Connection,"** as used herein, is a connection from GetFeedback to a Salesforce environment designated by You or Your User. A GetFeedback **"Production Connection"** is a connection to a production environment in Salesforce that stores live data that is actively used to run Your business. A GetFeedback **"Sandbox Connection"** is a connection to a sandbox environment in Salesforce that is a copy of Your production environment and is used for testing purposes only.
@@ -54,19 +42,19 @@ By using the Services, You represent and warrant that You meet all the requireme
 
     13. **"Your Data"** means any information, data, text, creative, video, audio, photographs, images, illustrations, animations, logos, software, scripts, executable ﬁles, graphics, and interactive features, any of which may be submitted to, generated, provided, or otherwise made accessible on or through the Services by You.
 
-2. **Modifications **
+2. **Modifications**
 
 This Agreement was last modified on the date listed at the end of this Agreement. We may make changes to this Agreement by posting a revised Agreement on Our Site and/or by sending an email to the last email address You gave Us. You agree that Your use of the Services after the effective date of any modifications to this Agreement constitutes Your acceptance of the modified terms. It is Your responsibility to check this website regularly for modifications to this Agreement. No modification, addition, deletion or waiver of any rights under this Agreement will be binding on GetFeedback unless signed by a duly authorized representative of GetFeedback.
 
 3. **Services and Acceptable Use**
 
-    14. *Free Trials.* We may make some or all of Our Services available to You on a limited, non-transferable, revocable, free trial basis for Your evaluation purposes only.  WE MAY TERMINATE YOUR FREE TRIAL ACCOUNT OR ANY FEATURES OF THE SERVICES AT ANY TIME IN OUR SOLE DISCRETION WITH NO OBLIGATIONS TO YOU. WE ARE UNDER NO OBLIGATION TO PROVIDE YOU WITH RESPONSE DATA SUBMITTED BY RESPONDENTS THAT EXCEED THE LIMITS OF YOUR FREE TRIAL ACCOUNT.
+    1. *Free Trials.* We may make some or all of Our Services available to You on a limited, non-transferable, revocable, free trial basis for Your evaluation purposes only.  WE MAY TERMINATE YOUR FREE TRIAL ACCOUNT OR ANY FEATURES OF THE SERVICES AT ANY TIME IN OUR SOLE DISCRETION WITH NO OBLIGATIONS TO YOU. WE ARE UNDER NO OBLIGATION TO PROVIDE YOU WITH RESPONSE DATA SUBMITTED BY RESPONDENTS THAT EXCEED THE LIMITS OF YOUR FREE TRIAL ACCOUNT.
 
-    15. *Prerequisite to use Services. *You are responsible for obtaining all hardware, software and services, which are necessary to access the Services.
+    2. *Prerequisite to use Services. *You are responsible for obtaining all hardware, software and services, which are necessary to access the Services.
 
-    16. *Modification of the Services. *We reserve the right to change the Site, the Services, or any features of the Services at any time and in Our sole discretion for any purpose, including but not limited to, improving performance or quality, correcting errors, or maintaining competitiveness.
+    3. *Modification of the Services. *We reserve the right to change the Site, the Services, or any features of the Services at any time and in Our sole discretion for any purpose, including but not limited to, improving performance or quality, correcting errors, or maintaining competitiveness.
 
-    17. *Your Obligations.* You will:
+    4. *Your Obligations.* You will:
 
         1. be responsible for Your Users' compliance with this Agreement;
 
@@ -80,21 +68,21 @@ This Agreement was last modified on the date listed at the end of this Agreement
 
         6. use the Services only in accordance with this Agreement and all applicable Laws.
 
-    18. *Restrictions on Use.* The Services may be accessed by no more than the specified number of Users allotted to You on Your Ordering Document. User licenses are for designated Users and cannot be shared or used by more than one User; provided, however, User licenses may be reassigned to replace former Users who no longer require ongoing use of the Services. In addition, You may not: (1) copy, modify, distribute, sell, resell, rent, lease, translate, or create derivative works of the Services or any part of Our Services; (2) reverse engineer, reverse assemble, decompile, or attempt to extract the source code of Our any part of Our software; (3) access the Services in order to build a competitive product or service, or copy any features, functions or graphics of the Services; (4) use the Services to store or transmit material in violation of third-party privacy rights; (5) use the Services to store or transmit Malicious Code; (6) interfere with or disrupt the integrity or performance of the Services or third-party data contained therein; (7) attempt to gain unauthorized access to the Services or their related systems or networks; or (8) remove or alter any trademark, logo, copyright or other proprietary notices associated with the Services.
+    5. *Restrictions on Use.* The Services may be accessed by no more than the specified number of Users allotted to You on Your Ordering Document. User licenses are for designated Users and cannot be shared or used by more than one User; provided, however, User licenses may be reassigned to replace former Users who no longer require ongoing use of the Services. In addition, You may not: (1) copy, modify, distribute, sell, resell, rent, lease, translate, or create derivative works of the Services or any part of Our Services; (2) reverse engineer, reverse assemble, decompile, or attempt to extract the source code of Our any part of Our software; (3) access the Services in order to build a competitive product or service, or copy any features, functions or graphics of the Services; (4) use the Services to store or transmit material in violation of third-party privacy rights; (5) use the Services to store or transmit Malicious Code; (6) interfere with or disrupt the integrity or performance of the Services or third-party data contained therein; (7) attempt to gain unauthorized access to the Services or their related systems or networks; or (8) remove or alter any trademark, logo, copyright or other proprietary notices associated with the Services.
 
-    19. *SPAM-Specific Obligations. *
+    6. *SPAM-Specific Obligations. *
 
-        7. GetFeedback strictly prohibits the sending of any unsolicited commercial email campaigns, commonly known as SPAM using GetFeedback's email functionality. When sending emails via the Services, You agree to import, access or otherwise use only permission-based email lists. Spam, as used herein, is any email sent by You to someone who has not given You their direct permission to contact them on the topic of the email. If You do not have explicit, provable and recent permission (obtained within the last 18 months) to contact recipients with surveys, GetFeedback reserves the right to suspend Your access to GetFeedback’s email functionality. 
+        1. GetFeedback strictly prohibits the sending of any unsolicited commercial email campaigns, commonly known as SPAM using GetFeedback's email functionality. When sending emails via the Services, You agree to import, access or otherwise use only permission-based email lists. Spam, as used herein, is any email sent by You to someone who has not given You their direct permission to contact them on the topic of the email. If You do not have explicit, provable and recent permission (obtained within the last 18 months) to contact recipients with surveys, GetFeedback reserves the right to suspend Your access to GetFeedback’s email functionality. 
 
-        8. You agree and warrant that You will not (1) engage in any spamming activity via the Services; (2) violate any U.S or foreign spamming, junk mail or other related laws or regulations prohibiting or discouraging unsolicited e-mail; (3) mail to distribution lists, newsgroups, or spam email addresses; (4) access or otherwise use third-party mailing lists in connection with preparing or distributing unsolicited email to any third-party; (5) use the Services to send email surveys that link to or display nudity, obscene content, gambling related content, payday lender related content, pharmaceutical related content, illegal software, viruses, or to distribute any other content that We, in Our sole discretion, deem inappropriate; (6) use the Services for any unlawful purposes; (7) transmit or solicit any material that violates any applicable local, state, federal, and international Laws and regulations (which may include material that is obscene, threatening, harassing, libelous); or (8) use the Services in any way that violates the intellectual property rights or any other rights of a third-party.
+        2. You agree and warrant that You will not (1) engage in any spamming activity via the Services; (2) violate any U.S or foreign spamming, junk mail or other related laws or regulations prohibiting or discouraging unsolicited e-mail; (3) mail to distribution lists, newsgroups, or spam email addresses; (4) access or otherwise use third-party mailing lists in connection with preparing or distributing unsolicited email to any third-party; (5) use the Services to send email surveys that link to or display nudity, obscene content, gambling related content, payday lender related content, pharmaceutical related content, illegal software, viruses, or to distribute any other content that We, in Our sole discretion, deem inappropriate; (6) use the Services for any unlawful purposes; (7) transmit or solicit any material that violates any applicable local, state, federal, and international Laws and regulations (which may include material that is obscene, threatening, harassing, libelous); or (8) use the Services in any way that violates the intellectual property rights or any other rights of a third-party.
 
-        9. All emails sent via the Services must contain a GetFeedback, or other GetFeedback approved, unsubscribe link that allows subscribers to instantly remove themselves from future surveys. You acknowledge and agree that You will not remove, disable or attempt to remove or disable that link. Emails that You send through the Services may generate abuse complaints from recipients. You are responsible for ensuring that Your email surveys do not generate a number of abuse complaints in excess of industry norms. We may, in Our sole discretion, determine whether any abuse complaints resulting from Your use of the Services are within industry norms, and Our determination shall be final, binding and conclusive for all purposes under this Agreement. We may immediately suspend Your access to Our email functionality without refund if We believe in Our sole discretion that You have violated any of the email and permission practices listed above.
+        3. All emails sent via the Services must contain a GetFeedback, or other GetFeedback approved, unsubscribe link that allows subscribers to instantly remove themselves from future surveys. You acknowledge and agree that You will not remove, disable or attempt to remove or disable that link. Emails that You send through the Services may generate abuse complaints from recipients. You are responsible for ensuring that Your email surveys do not generate a number of abuse complaints in excess of industry norms. We may, in Our sole discretion, determine whether any abuse complaints resulting from Your use of the Services are within industry norms, and Our determination shall be final, binding and conclusive for all purposes under this Agreement. We may immediately suspend Your access to Our email functionality without refund if We believe in Our sole discretion that You have violated any of the email and permission practices listed above.
 
-    20. *No Obligation to Monitor. *You acknowledge and agree that GetFeedback has no obligation to monitor Your use of the Services or the content provided by You, Your Users, or Your Respondents. Notwithstanding the foregoing, GetFeedback may monitor Your, Your Users', and Your Respondents’ use of the Services and may remove any content or prohibit any use of the Services that We believe violates this Agreement. 
+    7. *No Obligation to Monitor. *You acknowledge and agree that GetFeedback has no obligation to monitor Your use of the Services or the content provided by You, Your Users, or Your Respondents. Notwithstanding the foregoing, GetFeedback may monitor Your, Your Users', and Your Respondents’ use of the Services and may remove any content or prohibit any use of the Services that We believe violates this Agreement. 
 
-    21. *Third-Party Applications. *If You enable, install, or connect any Third-Party Applications for use with the Services, You hereby permit the transmission of and/or access to Your Data and Response Data to such Third-Party Applications. We shall not be responsible for any disclosure, modification or deletion of Your Data and Response Data resulting from any such transmission or access to Third-Party Applications. You acknowledge that certain Services provided by Us depend on the continuing availability of Third Party Applications. If the providers of these Third-Party Applications cease to make the API or program available on reasonable terms for the Service, We may cease providing such Service features without entitling You to any refund, credit, or other compensation. You acknowledge and agree that We are not responsible for any Third-Party Applications You use in connection with the Services.
+    8. *Third-Party Applications. *If You enable, install, or connect any Third-Party Applications for use with the Services, You hereby permit the transmission of and/or access to Your Data and Response Data to such Third-Party Applications. We shall not be responsible for any disclosure, modification or deletion of Your Data and Response Data resulting from any such transmission or access to Third-Party Applications. You acknowledge that certain Services provided by Us depend on the continuing availability of Third Party Applications. If the providers of these Third-Party Applications cease to make the API or program available on reasonable terms for the Service, We may cease providing such Service features without entitling You to any refund, credit, or other compensation. You acknowledge and agree that We are not responsible for any Third-Party Applications You use in connection with the Services.
 
-    22. *New/Odd-On Features.* Additional terms may apply to certain new or add-on features of the Services (the "Additional Terms"). The Additional Terms will be considered incorporated into this Agreement when You activate the new or applicable add-on feature. Where there is a conflict between this Agreement and the Additional Terms, the Additional Terms will control.
+    9. *New/Odd-On Features.* Additional terms may apply to certain new or add-on features of the Services (the "Additional Terms"). The Additional Terms will be considered incorporated into this Agreement when You activate the new or applicable add-on feature. Where there is a conflict between this Agreement and the Additional Terms, the Additional Terms will control.
 
 4. **Federal government End Use Provisions**
 
@@ -225,6 +213,7 @@ San Francisco, CA 94105
             6. a statement that the information in your notice is accurate, and you are authorized to act on behalf of the copyright owner. This statement must be made under penalty of perjury. 
 
         11. By submitting the notice, you acknowledge and agree that We may forward the information to the person who uploaded the allegedly infringing material. If you believe that your removed or disabled Content is not infringing, or that you have the authorization or right to post and use that Content from the copyright owner, the copyright owner's agent, or pursuant to law, you may send a counter-notice containing the information required by Section 512(g)(3) of the DMCA (17 U.S.C. § 512(g)(3)). We will forward your counter-notification to the party who submitted the original copyright infringement claim. If the original claimant does not file an action seeking a court order to restrain you from engaging in infringing activity related to the removed or disabled Content within fifteen (15) calendar days of receiving the counter-notice from Us, then We may, in Our sole discretion, reinstate the removed or disabled Content.
+
 
     53. *Force Majeure.* We will not be liable for any delays or failure in performance of any part of the Services, from any cause beyond Our control. This includes, but is not limited to, acts of God, changes to law or regulations, embargoes, war, terrorist acts, riots, fires, earthquakes, nuclear accidents, floods, strikes, power blackouts, and acts of government, hackers or third-party internet services providers.
 
